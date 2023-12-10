@@ -3,6 +3,14 @@
 ## You can see it, but you can't use it.
 
 A footnote can also have multiple lines[^2].
+
+- George Washington
+* John Adams
++ Thomas Jefferson
+- George Washington
+* John Adams
++ Thomas Jefferson
+  
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
