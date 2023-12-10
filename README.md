@@ -1,8 +1,8 @@
 # test
 `#990055` this test repo for training
-## You can see it, but you can't use it[^1].
+## You can see it, but you can't use it.
 > Hello this new repo
-you can go to [Google](https://www.google.com).
+you can go to[^2] [Google](https://www.google.com).
 
 > [!TIP]
 > this good job :+1: .
