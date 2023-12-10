@@ -4,12 +4,12 @@
 > Hello this new repo
 you can go to [Google](https://www.google.com)
 > [!TIP]
-> this good job :+1:
+> this good job :+1: .
 > [!NOTE]
->  this good job :tada:
+>  this good job :tada: .
 > [!IMPORTANT]
->  this good job ⏰:
+>  this good job ⏰: .
 > [!WARNING]
->  this good job ⏰:
-> [!CAUTION]
->  this good job ⏰: 
+>  this good job ⏰: .
+> [!CAUTION] 
+>  this good job ⏰: . 
